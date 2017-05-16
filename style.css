@@ -1,0 +1,11 @@
+img
+{
+  float: right;
+  border: solid black 1px;
+  box-shadow: black 3px 3px 3px;
+}
+
+header
+{
+    text-align: center;
+}
