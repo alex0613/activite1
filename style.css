@@ -15,6 +15,11 @@ body
   background: url("images/texture.png") repeat scroll;
 }
 
+section
+{
+  margin-top: 50px;
+}
+
 h2, h1
 {
     font-family: 'open_sansbold', Arial, Verdana, sans-serif;
