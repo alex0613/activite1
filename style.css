@@ -1,3 +1,8 @@
+body
+{
+    background: url("images/texture.png") repeat scroll;
+}
+
 img
 {
   float: right;
